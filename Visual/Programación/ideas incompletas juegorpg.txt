@@ -1,0 +1,26 @@
+clases:
+	.Personaje
+		-niveles
+		-estado
+		-inventario
+		
+	.movimientomapa
+		-mover
+		-deshacermovimiento
+		-tralados
+	.mapa
+		-cargarmapa
+		-desacermapa
+		interfaz de combates
+	.estado
+		-envenenado,paralizado
+		-comprobacion de estado
+		-curacion de estado
+	.roles
+		-tipos/nombre
+		-caracteristicas:debilidades,beneficios
+		-armas equipables
+		-
+	.combate
+	.objetos
+	.estadisticas
